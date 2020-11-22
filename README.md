@@ -4,6 +4,7 @@ sensors:
 #thinkpad-isa-0000/ISA adapter
 - hwmon: /sys/devices/platform/thinkpad_hwmon/hwmon
 indices: [1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16]
+
 correction: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 - hwmon: /sys/devices/platform/coretemp.0/hwmon/
 indices: [1, 2, 3, 4, 5]
